@@ -1,3 +1,12 @@
+The code is written in HTML, CSS, and JavaScript.
+HTML
+The HTML code defines the structure of the web page. It includes a form for users to enter their search criteria, and a container for displaying the search results.
+CSS
+The CSS code styles the web page. It sets the fonts, margins, and colors.
+JavaScript
+The JavaScript code handles the user interaction. It listens for events on the form, and updates the search results container when the user submits the form. It also includes functions to create train elements and display search results.
+
+
 INTERFACE
 HTML
 
